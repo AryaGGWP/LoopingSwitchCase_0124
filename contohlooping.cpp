@@ -36,5 +36,7 @@ int main() {
         i = rand() % 10;
         perulanganwhile++;
     }
-    
+    cout << "Jumlah Perulangan = " << perulanganwhile << endl;
+    cout << " Nilai i akhir = " << i << endl;
+    cout <<endl;
 }
